@@ -14,48 +14,48 @@ Configure an S3 bucket with public and private access while implementing securit
 
 5. Screenshots with detailed configurations and tests
 
-### Step 1 - Bucket Creation
+### Step 1
 ![step1](prove1.png)
 
-### Step 2 - Bucket Naming
+### Step 2
 ![step2](prove2.png)
 
-### Step 3 - Region Selection
+### Step 3
 ![step3](prove3.png)
 
-### Step 4 - Block Public Access
+### Step 4
 ![step4](prove4.png)
 
-### Step 5 - Versioning Enable
+### Step 5
 ![step5](prove5.png)
 
-### Step 6 - Encryption Settings
+### Step 6
 ![step6](prove6.png)
 
-### Step 7 - Bucket Creation Complete
+### Step 7
 ![step7](prove7.png)
 
-### Step 8 - File Upload
+### Step 8
 ![step8](prove8.png)
 
-### Step 9 - Public Access Configuration
+### Step 9
 ![step9](prove9.png)
 
-### Step 10 - IAM Role Creation
+### Step 10
 ![step10](prove10.png)
 
-### Step 11 - Policy Attachment
+### Step 11
 ![step11](prove11.png)
 
-### Step 12 - Pre-signed URL Generation
+### Step 12
 ![step12](prove12.png)
 
-### Step 13 - Public Access Test
+### Step 13
 ![step13](prove13.png)
 
-### Step 14 - Private Access Test
+### Step 14
 ![step14](prove14.png)
 
-### Step 15 - Encryption Verification
+### Step 15
 ![step15](prove15.png)
 
